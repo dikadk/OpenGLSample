@@ -1,0 +1,6 @@
+/Users/dkiro/CLionProjects/untitled/CMakeFiles/rebuild_cache.dir
+/Users/dkiro/CLionProjects/untitled/CMakeFiles/edit_cache.dir
+/Users/dkiro/CLionProjects/untitled/CMakeFiles/myapp.dir
+/Users/dkiro/CLionProjects/untitled/glad/CMakeFiles/rebuild_cache.dir
+/Users/dkiro/CLionProjects/untitled/glad/CMakeFiles/edit_cache.dir
+/Users/dkiro/CLionProjects/untitled/glad/CMakeFiles/glad.dir
